@@ -74,7 +74,7 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <h1>Shaping the Future <span id="popText"> of DevOps</span></h1>
+                <h1>Shaping the Future <span id="popText"> of DevOps!</span></h1>
                 <p>Innovate faster, deploy smarter—welcome to the new age of DevOps!</p>
             </div>
 
