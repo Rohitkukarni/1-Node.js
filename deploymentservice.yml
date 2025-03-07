@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: fir3eye/nod3_app:latest
+        image: krishna112/welcome-node-app:v2
         ports:
         - containerPort: 3000
         
